@@ -1,3 +1,7 @@
 Mi nombre es Yessica Ledezma
 
 Soy aprendiz en desarrollo web.
+
+Estoy aprendiendo Git.
+
+Me gustan las clases virtuales.
