@@ -1,3 +1,15 @@
 body{
-    background-color: aquamarine;
+    background-color: white;
+}
+
+.main{
+    width: 70%;
+    margin: 20px auto;
+    border: 1px solid blue;
+    padding: 20px;
+    background-color: turquoise;
+}
+
+h2{
+    margin-top: 0px;
 }
