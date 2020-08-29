@@ -1,2 +1,2 @@
-# blog_site_bitacora
-Creación de Repositorio Remoto
+# blog_site
+Creación de Repositorio Remoto con David Salomón
