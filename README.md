@@ -1,11 +1,11 @@
 ### Features
 
-- Esta pagina web que crearemos sera con fines netamente educativos
-- Aprenderas git y github desde cero hasta llegar a un nivel bastante profesional
-- Todos nuestros estudiantes aprenderan una herramienta obligatoria si quieren aspirar a buenos puestos de trabajo
-- Recuerda que la practica hace al maestro
+- Esta página web que crearemos será con fines netamente educativos
+- Aprenderás git y github desde cero hasta llegar a un nivel bastante profesional
+- Todos nuestros estudiantes aprenderán una herramienta obligatoria si quieren aspirar a buenos puestos de trabajo
+- Recuerda que la práctica hace al maestro
 
-# Blog Site Bitacora
+# Blog Site Bitácora
 
 ![](https://www.syloper.com/wp-content/uploads/git_destacada-1024x426.png)
 
@@ -14,6 +14,7 @@
 
 
 **Table of Contents**
+
 [TOCM]
 
 [TOC]
